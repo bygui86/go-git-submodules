@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/go-modules-by-example/submodules/b"
 	"fmt"
+	
+	"github.com/bygui86/go-git-submodules/mod_b"
 )
 
 const Name = b.Name

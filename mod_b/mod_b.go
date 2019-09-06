@@ -1,3 +1,3 @@
-package b
+package mod_b
 
 const Name = "Gopher"
