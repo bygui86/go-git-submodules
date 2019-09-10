@@ -1,5 +1,5 @@
 
-# Sample Go project to understand how to use git-submodules with go-modules
+# First sample Go project to understand how to use go-submodules
 
 ## Links
 

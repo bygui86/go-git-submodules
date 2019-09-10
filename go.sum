@@ -1,2 +1,3 @@
-github.com/bygui86/go-git-submodules/mod_b v0.0.0-20190906074523-404b30d03901 h1:1HO6lC4FbSZ+XzMtpV6it0fO6RiityVbTnWOaxAvpFE=
-github.com/bygui86/go-git-submodules/mod_b v0.0.0-20190906074523-404b30d03901/go.mod h1:0dLAuYdW7UWu1mpLt5jtgxTJjClRa3Phco4hbjuAvpM=
+github.com/bygui86/go-git-submodules v0.0.0-20190906074729-a72d3e1923ba h1:RsdLrNkwLUJ9c1YvNQq5tEiOAyDl61ykefY25kK1010=
+github.com/bygui86/go-git-submodules/mod_b v0.0.0-20190906074729-a72d3e1923ba h1:TCvpR1gffV8CnNZn3aU5bLiJEQj7AQQi8dYkw7uukC4=
+github.com/bygui86/go-git-submodules/mod_b v0.0.0-20190906074729-a72d3e1923ba/go.mod h1:0dLAuYdW7UWu1mpLt5jtgxTJjClRa3Phco4hbjuAvpM=
